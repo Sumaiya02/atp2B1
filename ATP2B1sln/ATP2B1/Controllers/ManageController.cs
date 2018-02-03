@@ -24,6 +24,7 @@ namespace ATP2B1.Controllers
         {
             UserManager = userManager;
             SignInManager = signInManager;
+
         }
 
         public ApplicationSignInManager SignInManager
